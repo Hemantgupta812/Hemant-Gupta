@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there 👋, I'm Hemant Gupta</h1>
 <h3 align="center">💻 Android Developer | Kotlin Enthusiast | Performance-Oriented Engineer</h3>
 
@@ -88,8 +89,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemantgupta-dev&show_icons=true&theme=tokyonight" alt="Hemant's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantgupta-dev&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemantgupta812&show_icons=true&theme=tokyonight" alt="Hemant's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemantgupta812&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
 ---
@@ -98,8 +99,8 @@
 
 <p>
   <a href="mailto:guptahemant19269@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hemant-gupta-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/hemantgupta-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hemant-gupta-a6b259202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Hemantgupta812"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
