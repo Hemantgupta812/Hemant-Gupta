@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Hemant Gupta</h1>
-<h3 align="center">💻 Android Developer | Kotlin Enthusiast | Performance-Oriented Engineer</h3>
+<h3 align="center">💻 Android Developer || Java || Kotlin || Jetpack Compose || MVP || MVVM || Springboot || Material 3 Design</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F8D2&center=true&vCenter=true&width=500&lines=Writing+scalable+Android+apps+in+Kotlin;Love+Jetpack+Compose+%26+Clean+Code;Let's+build+something+awesome!" alt="Typing SVG" />
